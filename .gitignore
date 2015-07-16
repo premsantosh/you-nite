@@ -1,3 +1,7 @@
+# Intellij IDEA files
+*.iml
+
+# Class Objs
 *.class
 
 # Mobile Tools for Java (J2ME)
