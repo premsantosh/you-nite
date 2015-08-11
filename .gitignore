@@ -1,5 +1,9 @@
 # Intellij IDEA files
 *.iml
+.idea/
+
+# Vim
+*.swp
 
 # Class Objs
 *.class
